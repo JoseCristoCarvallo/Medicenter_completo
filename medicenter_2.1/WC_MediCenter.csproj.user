@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="FormActualizarDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAtenderPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCambiarPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCambiarPasswordPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCompararHospitales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDiagnostico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDialogoValidacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditarAdminData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditarPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormGestionPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormHistorialPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormInfoPacientesDoctores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormIngresarSintomas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormListaColaPacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLoginPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLoginPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMenuAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMenuMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMenuPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMisPacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRegistrarPersonalAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRegistroPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSeleccionarHospital.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTrasladoPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormValidarDiagnosticos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormVerDetallePaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormVerImagenesSeguro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormVerPacientesHospital.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormVerUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

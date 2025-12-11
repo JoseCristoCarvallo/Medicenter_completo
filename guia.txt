@@ -1,0 +1,23 @@
+registre paciente P0001 y la contraseña que le haya introducido
+registre doctor desde  administrador
+para iniciar sesion en administrador, que es en el mismo
+apartado de iniciar sesion en doctor sus caracteres son
+
+usuario: ADMIN001
+contraseña: admin123
+------------
+MEDICENTER		
+-------------
+El programa es una herramienta que permite organizar y manejar la información de un centro médico 
+de una manera sencilla y ordenada. Su propósito es ayudar a registrar pacientes, registrar médicos y 
+administrar las citas sin necesidad de usar papeles o recordar todo manualmente. Toda la información 
+queda guardada dentro del sistema para consultarla en cualquier momento.
+
+Para utilizarlo, la persona solo debe ingresar los datos que el programa solicita, como nombres, 
+teléfonos, correos o fechas de cita. El sistema guarda esa información y permite buscarla o revisarla 
+cuando sea necesario. Por ejemplo, si llega un paciente nuevo, se registra su información; si un paciente 
+necesita una cita, se elige el médico, la fecha y la hora, y el sistema la crea; también es posible ver, modificar o eliminar datos desde el menú.
+
+El funcionamiento es simple: el programa muestra opciones como registrar, ver, editar o eliminar información. 
+La persona selecciona lo que desea hacer y el sistema la guía paso a paso. Así se mantiene todo ordenado, actualizado y fácil de acceder, 
+haciendo que el manejo de pacientes, médicos y citas sea más rápido y práctico.
